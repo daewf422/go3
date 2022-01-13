@@ -1,11 +1,11 @@
 #!/bin/bash
 cd ~
 
-rm -rf goproxy-heroku
+rm -rf go3-heroku
 
-git clone https://github.com/snail007/goproxy-heroku.git
+git clone https://github.com/daewf422/go3/go3-heroku.git
 
-cd goproxy-heroku
+cd go3-heroku
 
 rm -rf .git
 
