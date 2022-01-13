@@ -3,7 +3,7 @@ cd ~
 
 rm -rf go3-heroku
 
-git clone https://github.com/daewf422/go3-heroku.git
+git clone https://github.com/daewf422/go3.git
 
 cd go3-heroku
 
